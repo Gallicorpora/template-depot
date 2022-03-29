@@ -1,7 +1,7 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: Titre dataset
 description: Courte description du depot
-url: https://github.com/Gallicorpora/template-depot
+url: "https://github.com/Gallicorpora/template-depot"
 authors:
   - name: Sagot
     surname: Benoît
@@ -32,7 +32,7 @@ authors:
     roles:
       - project-manager
 project-name: Gallicorpora
-project-website: https://github.com/Gallicorpora
+project-website: "https://github.com/Gallicorpora"
 language:
   - frm
   - fra
@@ -47,9 +47,9 @@ hands:
   precision: estimated
 license:
   - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+    url: "https://creativecommons.org/licenses/by/4.0/"
 format: Alto-XML
 volume:
   - metric: lines
     count: 0
-transcription-guidelines: Ajouter les références des normes de transcription
+transcription-guidelines: "Ajouter les références des normes de transcription"
